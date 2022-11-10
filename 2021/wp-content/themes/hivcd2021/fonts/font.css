@@ -1,0 +1,52 @@
+/**
+ *
+ * Font information
+ *
+ *
+ */
+
+@font-face {
+  font-family: 'suisse-small';
+  src: url('SuisseIntl-Light-WebS.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'suisse-small';
+  src: url('SuisseIntl-Regular-WebM.woff') format('woff'),
+  url('SuisseIntl-Regular-WebM.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'suisse-bold';
+  src: url('SuisseIntl-Regular-WebM.woff') format('woff'),
+  url('SuisseIntl-Regular-WebM.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'sandol-l';
+  src: url('AppleSDGothicNeoL.woff') format('woff'),
+  url('AppleSDGothicNeoL.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sandol-m';
+  src: url('AppleSDGothicNeoM.woff') format('woff'),
+  url('AppleSDGothicNeoM.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: 'suisse-small';
+  src: url('SuisseIntl-Light-WebS.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+} */
