@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>workshop &#8211; 홍익대학교 시각디자인과 졸업주간 2021 | R777</title>
+	<atom:link href="https://hivcdgw2021.com/category/program/workshop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hivcdgw2021.com</link>
+	<description></description>
+	<lastBuildDate>
+	Sun, 16 Oct 2022 08:07:37 +0000	</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.15</generator>
+	<item>
+		<title>2021 이음다리 우정국&#x1f4ee;</title>
+		<link>https://hivcdgw2021.com/2021-%ec%9d%b4%ec%9d%8c%eb%8b%a4%eb%a6%ac-%ec%9a%b0%ec%a0%95%ea%b5%ad%f0%9f%93%ae/</link>
+				<comments>https://hivcdgw2021.com/2021-%ec%9d%b4%ec%9d%8c%eb%8b%a4%eb%a6%ac-%ec%9a%b0%ec%a0%95%ea%b5%ad%f0%9f%93%ae/#respond</comments>
+				<pubDate>Thu, 18 Nov 2021 09:23:24 +0000</pubDate>
+		<dc:creator><![CDATA[drmvsn]]></dc:creator>
+				<category><![CDATA[Program]]></category>
+		<category><![CDATA[workshop]]></category>
+
+		<guid isPermaLink="false">https://hongiksidi1.cafe24.com/2021/?p=183</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://hivcdgw2021.com/2021-%ec%9d%b4%ec%9d%8c%eb%8b%a4%eb%a6%ac-%ec%9a%b0%ec%a0%95%ea%b5%ad%f0%9f%93%ae/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>네모네 몽타주 (네모난 너의 몽타주)</title>
+		<link>https://hivcdgw2021.com/%eb%84%a4%eb%aa%a8%eb%84%a4-%eb%aa%bd%ed%83%80%ec%a3%bc-%eb%84%a4%eb%aa%a8%eb%82%9c-%eb%84%88%ec%9d%98-%eb%aa%bd%ed%83%80%ec%a3%bc/</link>
+				<comments>https://hivcdgw2021.com/%eb%84%a4%eb%aa%a8%eb%84%a4-%eb%aa%bd%ed%83%80%ec%a3%bc-%eb%84%a4%eb%aa%a8%eb%82%9c-%eb%84%88%ec%9d%98-%eb%aa%bd%ed%83%80%ec%a3%bc/#respond</comments>
+				<pubDate>Thu, 18 Nov 2021 09:21:42 +0000</pubDate>
+		<dc:creator><![CDATA[drmvsn]]></dc:creator>
+				<category><![CDATA[Program]]></category>
+		<category><![CDATA[workshop]]></category>
+
+		<guid isPermaLink="false">https://hongiksidi1.cafe24.com/2021/?p=185</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://hivcdgw2021.com/%eb%84%a4%eb%aa%a8%eb%84%a4-%eb%aa%bd%ed%83%80%ec%a3%bc-%eb%84%a4%eb%aa%a8%eb%82%9c-%eb%84%88%ec%9d%98-%eb%aa%bd%ed%83%80%ec%a3%bc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
